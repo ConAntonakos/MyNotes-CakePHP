@@ -1,1 +1,1 @@
-'My Notes' - a note-taking app built in [CakePHP](http://cakephp.org/img/cake-logo.png)](http://www.cakephp.org).
+'My Notes' - a note-taking app built with [MySQL](http://www.mysql.com/) and [CakePHP](http://www.cakephp.org).
